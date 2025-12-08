@@ -143,24 +143,6 @@ cap = cv2.VideoCapture(0)  # 0 for default camera, 1 for external camera, etc.
 - **Model Persistence**: OpenCV FileStorage format (.yml)
 - **Label Storage**: Python pickle format
 
-## Future Enhancements
-
-- [ ] Add GUI interface
-- [ ] Support for multiple face recognition algorithms (EigenFaces, FisherFaces)
-- [ ] Face detection from video files
-- [ ] Export recognition logs
-- [ ] Batch image processing mode
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
@@ -171,8 +153,7 @@ This project is open source and available under the MIT License.
 
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Face Recognition with OpenCV](https://docs.opencv.org/master/da/d60/tutorial_face_main.html)
-- [LBPH Algorithm Explanation](https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b)
 
 ---
 
-**Note**: This project is for educational purposes. For production use, consider more robust solutions with additional security measures.
+**Note**: This project is for educational purposes.
