@@ -1,6 +1,12 @@
 # Face Recognition
 
-A real-time face recognition system built with OpenCV and Python. This project uses machine learning to detect and recognize faces from images, webcam streams, or video files.
+A real-time face recognition system built with OpenCV and Python. This project uses machine learning to detect and recognize faces from images, webcam streams, or video files. 
+
+## Examples
+<p align="center">
+  <img src="examples/Reid_hat.png" width="300" />
+  <img src="examples/Reid_no_hat.png" width="300" />
+</p>
 
 ## Features
 
