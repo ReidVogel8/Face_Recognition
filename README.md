@@ -4,8 +4,8 @@ A real-time face recognition system built with OpenCV and Python. This project u
 
 ## Examples
 <p align="center">
-  <img src="examples/Reid_hat.png" width="200" />
-  <img src="examples/Reid_no_hat.png" width="200" />
+  <img src="examples/Reid_hat.png" width="400" />
+  <img src="examples/Reid_no_hat.png" width="400" />
 </p>
 
 ## Features
