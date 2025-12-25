@@ -35,7 +35,7 @@ while True:
         ids, confidence = recognizer.predict(box)
 
         #70 percent confidence it will print out the name else will show unknown
-        if confidence < 65:
+        if confidence < 55:
             name = labels[ids]
             display = name
         else:
