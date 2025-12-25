@@ -6,7 +6,7 @@ A real-time face recognition system built with OpenCV and Python. This project u
 <p align="center">
   <img src="examples/Reid_hat.png" width="300" />
   <img src="examples/Reid_no_hat.png" width="300" />
-  <img src="examples/Unknown.png" width="300" />
+  <img src="examples/unknown.png" width="300" />
 </p>
 
 ## Features
